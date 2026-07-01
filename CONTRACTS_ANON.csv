@@ -1,0 +1,31 @@
+CONTRACT_ID,SUPPLIER_ID,CONTRACT_REF,WORK_TYPE,OBJECT_NAME,CONTRACT_SUM,AMOUNT_PAID,WORK_DONE,BALANCE,SUPPLIER_NAME
+1,1,Contract No.XXX dated 05.09.2025,Supply and installation of ventilation,Residential Complex A (Block 1),7132137,6928092,6928092,204045,1
+2,1,Specification No.XXX dated 03.11.2025,Supply and installation of ventilation,Residential Complex A (Block 2),8099044,6460034,6460034,0,1
+3,1,Specification No.XXX dated 04.11.2025,Supply and installation of ventilation,Residential Complex A (Block 3),7623708,6164528,6164528,0,1
+4,1,Contract No.XXX dated 30.10.2025,Supply and installation of ventilation,Residential Complex B (Block 1),13270772,13270772,13270772,0,1
+5,2,Contract No.XXX dated 17.10.2025,Security and fire alarm system,Residential Complex A (Unit 113),3398143,1699072,1699072,1699072,2
+6,2,Contract No.XXX dated 22.10.2025,Security and fire alarm system,Commercial Complex C (3rd floor),1038523,1038523,1038523,0,2
+7,2,Contract No.XXX dated 25.11.2025,Security and fire alarm system,Residential Complex B (Block 1),1387792,1387792,1387792,0,2
+8,2,Contract No.XXX dated 28.11.2025,Security and fire alarm system,Residential Complex A (Unit 112),4316977,0,0,4316977,2
+9,2,Contract No.XXX dated 30.03.2026,Security and fire alarm system,Administrative Building D,578980,289490,289490,289490,2
+10,3,Contract dated 22.05.2024,Electrical grid repair,Regional Facility E,2100650,2283470,2100650,0,3
+11,3,"Contract dated 12.06.2025 App.1,2",Landscaping alley,Residential Complex B (Block 2),3451150,3451150,3451150,0,3
+12,3,App.3 dated 14.10.2025,Electrical works,Commercial Complex C (restaurant),4676221,4676221,4676221,0,3
+13,3,App.2 dated 15.09.2025,Electrical works house 113,Residential Complex A,4591086,4591086,4591086,0,3
+14,3,App.4 dated 23.10.2025,Electrical works house 112,Residential Complex A,2917131,0,2917131,2917131,3
+15,3,App.1 dated 20.01.2026,Electrical works,Residential Unit F,278881,278881,278881,0,3
+16,4,Supply Contract No.XXX App.01,Aluminum composite facade panels ALCOPON,Residential Complex A (Block 1),1500000,1500000,1500000,0,4
+17,4,Supply Contract No.XXX App.02,Aluminum composite facade panels ALCOPON,Residential Complex A (Block 1),204000,204000,204000,0,4
+18,4,Supply Contract No.XXX App.03,Aluminum composite panels — trim elements,Residential Complex A (Block 1),770000,770000,770000,0,4
+19,4,Supply Contract No.XXX App.04,Aluminum composite facade panels ALCOPON,Residential Complex A (Block 1),2890000,2890000,2890000,0,4
+20,4,Work Contract dated 07.04.2026,"Scaffolding, metal framing, cladding",Residential Complex A (Units 113-114),633906,633906,633906,0,4
+21,5,Contract No.XXX dated 16.04.2026,Gas blocks supply,Residential Complex A (Block 1),4777000,4777000,4777000,0,5
+22,6,Contract No.XXX-03 dated 20.04.2026,Thermal insulation boards,Residential Complex A (Block 1),3741797,3741797,3741797,0,6
+23,7,Subcontract dated 03.04.2026,Natural stone facade cladding,Residential Complex A (Block 1),1760880,1760880,1760880,0,7
+24,8,Work contract dated 16.02.2026,Replacement of aluminum window frames,Residential Complex A (Block 1),1500000,0,0,1500000,8
+25,9,Subcontract dated 06.05.2026,Gas pipeline relocation project and SMR,Residential Complex B (Block 3),4572000,0,0,4572000,9
+26,10,Subcontract dated 04.06.2026,External water supply and sewage networks,Residential Complex A (Site),26864155,0,0,26864155,10
+27,11,Supply Contract No.POS/08-04/26 App.1,Granite slabs,Residential Complex A,11566280,11566280,11566280,0,11
+28,11,Supply Contract No.POS/08-04/26 App.2,Granite slabs,Residential Complex A,20308530,10154265,10154265,10154265,11
+29,12,Landscaping parking dated 2026,Workout complex fabrication and installation,Residential Complex B (Courtyard),2103428,0,0,2103428,12
+30,13,Subcontract dated 16.02.2026,Wall and ceiling repair and painting,Residential Complex A,1106870,1106870,1106870,0,13
