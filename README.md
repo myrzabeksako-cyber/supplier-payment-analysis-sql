@@ -1,14 +1,14 @@
-# 🏗️ Supplier Payment & Risk Analysis — SQL + Python
+# Supplier Payment & Risk Analysis — SQL + Python
 
 **Project:** Industrial Internship 1 | SDU University | June 2026  
 **Author:** Myrzabek Sagynzhan  
 **Tools:** Oracle APEX (SQL) · Python · pandas · matplotlib  
 
-> ⚠️ All company and supplier names have been anonymized (Supplier A–M, Residential Complex A–C, etc.) to protect confidential business information.
+> All company and supplier names have been anonymized (Supplier A–M, Residential Complex A–C, etc.) to protect confidential business information.
 
 ---
 
-## 🎯 Project Goal
+## Project Goal
 
 Analyze supplier and subcontractor payment data for a construction company:
 - Track **contract values vs actual payments** per supplier
@@ -18,7 +18,7 @@ Analyze supplier and subcontractor payment data for a construction company:
 
 ---
 
-## 📁 Files
+## Files
 
 | File | Description |
 |---|---|
@@ -30,7 +30,7 @@ Analyze supplier and subcontractor payment data for a construction company:
 
 ---
 
-## 🗄️ Database Structure
+## Database Structure
 
 Two relational tables connected via `SUPPLIER_ID`:
 
@@ -59,7 +59,7 @@ CONTRACTS (30 rows)
 
 ---
 
-## 🔍 SQL Queries (Oracle APEX)
+## SQL Queries (Oracle APEX)
 
 ### Query 1 — All Suppliers Summary
 ```sql
@@ -145,7 +145,7 @@ ORDER BY
 
 ---
 
-## 📊 Key Findings
+## Key Findings
 
 - Total contract value: **~161 M₸** across 13 suppliers
 - Total paid: **~101 M₸** (62.7% of all contracts)
@@ -155,7 +155,7 @@ ORDER BY
 
 ---
 
-## 🛠️ How to Use
+## How to Use
 
 1. Import `SUPPLIERS_ANON.csv` and `CONTRACTS_ANON.csv` into any SQL database (Oracle, PostgreSQL, SQLite)
 2. Run queries from `sql_queries.sql`
